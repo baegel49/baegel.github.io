@@ -10,7 +10,7 @@ author:
   name: "Baegel"
   bio: "The dough of 49 bagels maketh a man"
 
-navigation:
+navigation_main:
   - title: "Blog"
     url: /blog/
   - title: "Wiki"
