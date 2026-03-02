@@ -13,3 +13,11 @@ author:
 
 # Navigation
 navigation: true
+
+navigation:
+  - title: "Blog"
+    url: /blog/
+  - title: "Wiki"
+    url: /wiki/
+  - title: "About"
+    url: /about/
