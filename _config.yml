@@ -6,13 +6,9 @@ plugins:
 title: Fortyninebagels
 description: 
 
-# Site Author
 author:
   name: "Baegel"
   bio: "The dough of 49 bagels maketh a man"
-
-# Navigation
-navigation: true
 
 navigation:
   - title: "Blog"
