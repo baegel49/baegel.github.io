@@ -10,10 +10,10 @@ author:
   name: "Baegel"
   bio: "The dough of 49 bagels maketh a man"
 
-navigation_main:
-  - title: "Blog"
-    url: /blog/
-  - title: "Wiki"
-    url: /wiki/
-  - title: "About"
-    url: /about/
+#navigation_main:
+#  - title: "Blog"
+#    url: /blog/
+#  - title: "Wiki"
+#    url: /wiki/
+#  - title: "About"
+#    url: /about/
