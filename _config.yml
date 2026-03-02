@@ -108,10 +108,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Baegel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "Everywhere"
   email            :
   links:
     - label: "Email"
@@ -236,7 +236,7 @@ paginate_path: /page:num/
 #   for configuration details
 pagination:
   # Set enabled to true to use paginate v2
-  # enabled: true
+  enabled: true
   debug: false
   collection: 'posts'
   per_page: 10
