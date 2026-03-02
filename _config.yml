@@ -3,6 +3,9 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
+  minimal_mistakes_skin    : "contrast" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 title: Fortyninebagels
 description: 
 
