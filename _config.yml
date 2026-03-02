@@ -1,6 +1,15 @@
----
-theme: jekyll-theme-minimal
-title: Fortyninebagels
-description:
----
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
+title: Fortyninebagels
+description: 
+
+# Site Author
+author:
+  name: "Baegel"
+  bio: "The dough of 49 bagels maketh a man"
+
+# Navigation
+navigation: true
